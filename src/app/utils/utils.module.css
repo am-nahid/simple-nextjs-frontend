@@ -1,0 +1,55 @@
+.input_field{
+    background-color: #f3faf7;
+    border: 1px solid #4fb995;
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 13px;
+}
+
+.input_field:focus{
+    outline: none;
+}
+
+.cardCntnr{
+    display: flex;
+    padding: 3rem;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 11px;
+    min-width: 10rem;
+    height: 4rem;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #f8fafc;
+    
+}
+
+.cntr{
+    position: relative;
+    top: -0.25rem;
+    height: 99.4vh;
+    /* background-color: #8eb6c8; */
+    background-color: #f7f7f7;
+    box-sizing: border-box;
+}
+
+.table td,
+.table th,
+.table tr {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 0.6rem;
+}
+
+.table{
+    width: 75%;
+    text-align: center;
+    
+}
+

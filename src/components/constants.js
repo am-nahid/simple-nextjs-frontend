@@ -1,0 +1,1 @@
+export const localApi = 'http://localhost:8040'
